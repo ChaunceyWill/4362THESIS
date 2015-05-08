@@ -1,0 +1,41 @@
+@font-face { 			/*Fonts for webpage copy, headings, etc.*/
+	font-family: 'BebasNeueBold';
+	src: url(../fonts/BebasNeue Bold.otf);
+	}	
+@font-face {
+	font-family: 'Arial Black';
+	src: url (../fonts/ariblk.ttf);
+	}
+@font-face {
+	font-family: 'Akashi Regular';
+	src: url (../fonts/Akashi.ttf);
+	}
+@font-face {
+	font-family: 'Arial Bold';
+	src: url (../fonts/arialbd.ttf);
+	}
+@font-face {
+	font-family: 'Arial';
+	src: url (../fonts/arial.ttf);
+	}
+@font-face {
+	font-family: 'BebasNeueRegular';
+	src: url (../fonts/BebasNeue Regular.otf);
+	}
+@font-face {
+	font-family: 'Droid Sans';
+	src: url (../fonts/DroidSans.ttf);
+	}
+@font-face {
+	font-family: 'Droid Sans Bold';
+	src: url (../fonts/DroidSans-Bold.ttf);
+	}
+
+#container {
+	width: 1920px;
+	height: 2160px;
+}	
+	
+.hidden2 {
+	display: none;
+}
